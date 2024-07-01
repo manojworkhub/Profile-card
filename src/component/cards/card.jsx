@@ -6,7 +6,7 @@ const usersdata = [
     location: "New York",
     designation: "Software Engineer",
     skills: ["Java", "Python", "JavaScript", "SQL"],
-    image: "./public/img/1.jpg",
+    image: "https://i.ibb.co/kGjwP8G/1.jpg",
     online: true,
   },
 
@@ -15,7 +15,7 @@ const usersdata = [
     location: "San Francisco",
     designation: "Data Scientist",
     skills: ["Python", "R", "Machine Learning", "Data Visualization"],
-    image: "./public/img/2.jpg",
+    image: "https://i.ibb.co/d45qZyD/2.jpg",
     online: false,
   },
 
@@ -24,7 +24,7 @@ const usersdata = [
     location: "London",
     designation: "UX Designer",
     skills: ["UI Design", "Prototyping", "User Research", "Adobe XD"],
-    image: "./public/img/3.jpg",
+    image: "https://i.ibb.co/rQ523Sp/3.jpg",
     online: true,
   },
 
@@ -38,7 +38,7 @@ const usersdata = [
       "Agile Methodology",
       "Stakeholder Management",
     ],
-    image: "./public/img/4.jpg",
+    image: "https://i.ibb.co/NsLdKR6/4.jpg",
     online: true,
   },
 
@@ -52,7 +52,7 @@ const usersdata = [
       "Smart Contracts",
       "DApp Development",
     ],
-    image: "./public/img/5.jpg",
+    image: "https://i.ibb.co/hRmJf80/pexels-soldiervip-1374510.jpg",
     online: false,
   },
 ];
